@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+plotly
+scikit-learn
+duckdb
+openai==0.28
