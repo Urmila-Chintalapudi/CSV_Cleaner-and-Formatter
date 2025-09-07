@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+plotly.express
+sklearn
+dateutil.parser
+duckdb
+openai
