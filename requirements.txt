@@ -1,0 +1,11 @@
+streamlit==1.38.0
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.2
+seaborn==0.13.2
+scikit-learn==1.5.2
+python-dateutil==2.9.0.post0
+
+# Extra (needed in Streamlit Cloud)
+altair==5.4.1
+pyarrow==17.0.0
